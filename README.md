@@ -1,8 +1,5 @@
 Hi, I’m Richard McCormick.
 
-Reach me via email: rmccormick314@gmail.com
-
-<!---
-rmccormick314/rmccormick314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/richard-mccormick-50885a16a/">
+  <img align="left" alt="Richard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
