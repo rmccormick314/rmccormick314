@@ -8,10 +8,3 @@
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 </p>
-
-<br>
-<br>
-
-### Current Projects:
-- [Global Croplands Website (USGS)](https://www.croplands.org)
-- [Arizona Earthquake Information Center Website (AEIC)](http://aeic.nau.edu)
