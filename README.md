@@ -13,5 +13,5 @@
 <br>
 
 ### Current Projects:
-- [Global Croplands Website (USGS)](croplands.org)
-- [Arizona Earthquake Information Center Website (AEIC)](aeic.nau.edu)
+- [Global Croplands Website (USGS)](https://www.croplands.org)
+- [Arizona Earthquake Information Center Website (AEIC)](https://www.aeic.nau.edu)
