@@ -1,12 +1,17 @@
-Hi, I’m Richard McCormick.
+## Hi, I’m Richard McCormick.
 
+<p align="left">
 <a href="https://www.linkedin.com/in/richard-mccormick-50885a16a/">
-  <img align="left" alt="Richard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.discordapp.com/users/108035828248276992/">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+</p>
 
 <br>
 <br>
 
-I am currently employed by the United States Geological Survey and work with both terrestrial and planetary data to help imporve our understanding of the world. My current projects include:
+### Current Projects:
 - [Global Croplands Website (USGS)](croplands.org)
 - [Arizona Earthquake Information Center Website (AEIC)](aeic.nau.edu)
