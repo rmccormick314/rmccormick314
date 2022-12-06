@@ -1,4 +1,4 @@
-## Hi, I’m Richard McCormick.
+## Hi, I’m Richard McCormick
 
 <p align="left">
 <a href="https://www.linkedin.com/in/richard-mccormick-50885a16a/">
