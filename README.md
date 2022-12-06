@@ -8,3 +8,5 @@
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rmccormick314/rmccormick314/main/icons/discord.svg" />
 </a>
 </p>
+<br>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rmccormick314?cardType=github&theme=prussian)](https://git.io/awesome-stats-card)
