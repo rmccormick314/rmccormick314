@@ -9,7 +9,7 @@
 </a>
 </a>
 <a href="https://hub.docker.com/u/rmccormick314">
-  <img align="left" alt="Docker Hub" width="22px" src="https://raw.githubusercontent.com/rmccormick314/rmccormick314/main/icons/Moby-logo.webp" />
+  <img align="left" alt="Docker Hub" height="22px" src="https://raw.githubusercontent.com/rmccormick314/rmccormick314/main/icons/Moby-logo.webp" />
 </a>
 <a href="https://www.discordapp.com/users/108035828248276992/">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/rmccormick314/rmccormick314/main/icons/discord.svg" />
