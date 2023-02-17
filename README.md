@@ -1,5 +1,6 @@
 ## Hi, I’m Richard McCormick
 This is where I store my academic, personal, and professional projects.
+
 Contact me at: rmccormick314@gmail.com
 
 <p align="left">
