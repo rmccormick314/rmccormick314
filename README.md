@@ -1,6 +1,7 @@
 ## Hi, I’m Richard McCormick
 This is where I store my academic, personal, and professional projects.
 
+***
 <p align="left">
 <a href="https://www.linkedin.com/in/richard-mccormick-50885a16a/">
   <img align="left" alt="LinkedIn" height="22px" src="https://raw.githubusercontent.com/rmccormick314/rmccormick314/main/icons/linkedin.svg" />
