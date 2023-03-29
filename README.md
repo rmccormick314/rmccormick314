@@ -1,6 +1,5 @@
 ## Hi, I’m Richard McCormick
 
-***
 Find me here:  
 <p align="left">
 <a href="https://www.linkedin.com/in/richard-mccormick-50885a16a/">
